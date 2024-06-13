@@ -22,28 +22,8 @@ num10=6
 
 
 
-
-
-
-
-
 print(num1 - num2)
 print(num3 * num4)
 print(num5 / num6)
 print(num7 // num8)
 print(num9 % num10)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
